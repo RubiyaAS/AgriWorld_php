@@ -1,3 +1,12 @@
+/*********** 
+ @function:admin view the product list
+@author:Rubiya AS
+@date:9/1/2021
+@module:Admin
+****/
+
+
+
 <?php
 session_start();
 $id=$_SESSION['loginid'];
