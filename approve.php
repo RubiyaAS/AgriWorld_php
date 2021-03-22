@@ -1,3 +1,12 @@
+/*********** 
+ @function:Admin Approve the user
+@author:Rubiya AS
+@date:9/1/2021
+@module:Admin
+****/
+
+
+
 <?php
 $mysql=new mysqli("localhost","root","","agriworld");
 
